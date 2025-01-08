@@ -1,5 +1,5 @@
 # Zomato Restaurant Listing & Searching
-link : [Zomato](https://zomato-clone-it-is.netlify.app/)
+link : [App](https://zomato-clone-it-is.netlify.app/)
 
 ## Project Overview
 
